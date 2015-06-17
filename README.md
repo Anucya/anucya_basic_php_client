@@ -8,7 +8,7 @@ Una vez descargago el cliente hay que configurar un parámetro básico para su c
 >
 ```php
 <?php 
-define("API_KEY","088e1f4279ced08c5645b9c617b74627566fa3175757d91ccaecfd2b0f62dd29"); 
+define("API_KEY","TuAuth-TokenDeApi"); 
 $config = array(
 	'base_file_path' => '/front/anuncios/',
 ```
