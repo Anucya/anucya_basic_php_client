@@ -15,3 +15,6 @@ $config = array(
 >
 
 Donde base_file_path será la ruta path de la url donde alojaremos el cliente.
+
+# Personalización
+Los ficheros de estilos se podrán encontrar en la carpeta: **/anucya_client/assets** para que puedan modificarse al gusto.
