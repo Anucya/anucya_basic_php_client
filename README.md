@@ -1,8 +1,8 @@
-# anucya_php_app
-App básica para poner en marcha una completa web de clasificados gracias a AnunciosClasificadosYa.com API
+# Cliente PHP
+Cliente PHP básico para poner en marcha una completa web de clasificados gracias a AnunciosClasificadosYa.com API
 
 # Configuración
-Una vez descargago el cliente hay que configurar un parámetro básico para su correcto funcionamiento:
+Una vez descargado el cliente hay que configurar un parámetro básico para su correcto funcionamiento:
 
 **Fichero: /anucya_client/inc/config.php**
 >
